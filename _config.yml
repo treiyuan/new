@@ -29,7 +29,7 @@ navigation:
   - name: Tags
     url: /tags
   - name: Theme
-    url: https://treiyuan.github.io-new
+    url: https://treiyuan.github.io/treiyuan.github.io-new
 
 # Pagination
 paginate: 5
