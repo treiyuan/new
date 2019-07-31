@@ -3,17 +3,17 @@
 #
 
 # Name of your site (displayed in the header)
-name: Kiko Now
+name: T
 
 # Short bio or description (displayed in the header)
-description: Web Developer from Somewhere
+description: 
 
 #
 # Flags below are optional
 #
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+avatar: 
 
 
 # Tabs in header. There are 'Blog', 'About', 'Archive', 'Tags'
@@ -29,7 +29,7 @@ navigation:
   - name: Tags
     url: /tags
   - name: Theme
-    url: https://github.com/AWEEKJ/kiko-now
+    url: https://treiyuan.github.io-now
 
 # Pagination
 paginate: 5
